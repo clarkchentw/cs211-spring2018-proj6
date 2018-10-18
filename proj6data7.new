@@ -1,0 +1,11 @@
+# setting up a travel network of 5 airports
+#
+# This reflects the 4th picture shown from the project write-up
+r 5
+i 1 2
+i 2 3
+i 3 1
+i 3 4
+i 4 3
+i 4 5
+i 5 5
